@@ -36,7 +36,7 @@
     "editorSuggestWidget.background": "#F1F5F9",
     "editorSuggestWidget.border": "#E2E8F0",
     "editorSuggestWidget.selectedBackground": "#E2E8F0",
-    "editorUnnecessaryCode.opacity": "#0000001a",
+    "editorUnnecessaryCode.opacity": "#00000082",
     "editorWhitespace.foreground": "#CBD5E1",
     "editorWidget.background": "#F1F5F9",
     "gitDecoration.addedResourceForeground": "#059669",

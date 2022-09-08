@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/fabian-hiller/vscode-pace-theme"
   },
-  "version": "0.2.1",
+  "version": "0.3.0",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fabian-hiller/vscode-pace-theme/issues"
@@ -47,6 +47,11 @@
         "label": "Pace Light+",
         "uiTheme": "vs",
         "path": "./themes/light+.json"
+      },
+      {
+        "label": "Pace Light++",
+        "uiTheme": "vs",
+        "path": "./themes/light++.json"
       }
     ]
   },
